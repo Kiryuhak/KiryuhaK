@@ -1,16 +1,132 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**Kiryuhak/KiryuhaK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Привет! Я Кирилл 👋  
+# Hi! I'm Kirill 👋
 
-Here are some ideas to get you started:
+### QA Engineer • Developer • Creator of LexiSync
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Я занимаюсь тестированием, разработкой и автоматизацией.  
+Создаю полезные инструменты, браузерные расширения и изучаю современные технологии.
+
+I work with software testing, development, and automation.  
+I build useful tools, browser extensions, and explore modern technologies.
+
+</div>
+
+---
+
+## 🇷🇺 Обо мне
+
+- 🔍 Занимаюсь ручным и автоматизированным тестированием
+- 🧪 Пишу unit- и E2E-тесты
+- 🌐 Разрабатываю браузерные расширения для Chrome и Firefox
+- 🤖 Интересуюсь AI-инструментами и интеграцией языковых моделей
+- 🛠 Люблю искать сложные ошибки и разбираться в их первопричинах
+- 📚 Постоянно изучаю новые технологии и улучшаю свои проекты
+
+## 🇬🇧 About me
+
+- 🔍 Working with manual and automated software testing
+- 🧪 Writing unit and end-to-end tests
+- 🌐 Building browser extensions for Chrome and Firefox
+- 🤖 Interested in AI tools and language model integrations
+- 🛠 Enjoy investigating complex bugs and finding their root causes
+- 📚 Continuously learning and improving my projects
+
+---
+
+## 🚀 Основной проект / Featured project
+
+### ✨ LexiSync
+
+Интеллектуальное браузерное расширение для работы с выделенным текстом и AI.
+
+An intelligent browser extension for working with selected text and AI.
+
+**Возможности / Features:**
+
+- обработка выделенного текста;
+- быстрые AI-команды;
+- рабочая панель прямо на странице;
+- интеграция с Mistral API;
+- поддержка русского и английского языков;
+- расширения для Chrome и Firefox;
+- unit- и E2E-тестирование;
+- внимание к приватности и удобству интерфейса.
+
+---
+
+## 🧰 Технологии / Tech stack
+
+<p align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</p>
+
+---
+
+## 🧪 Что я тестирую / What I test
+
+- функциональность интерфейсов;
+- браузерные расширения;
+- API-интеграции;
+- обработку ошибок и нестандартных ответов;
+- адаптивность и совместимость;
+- сборки Chrome и Firefox;
+- регрессионные сценарии;
+- пользовательские потоки.
+
+---
+
+## 📊 GitHub statistics
+
+<p align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Kiryuhak&show_icons=true&hide_border=true"
+  alt="GitHub statistics"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiryuhak&layout=compact&hide_border=true"
+  alt="Most used languages"
+/>
+
+</p>
+
+---
+
+## 🎯 Сейчас изучаю / Currently learning
+
+- автоматизацию тестирования;
+- TypeScript;
+- архитектуру браузерных расширений;
+- CI/CD;
+- AI-assisted development;
+- анализ логов и поиск первопричин ошибок.
+
+---
+
+## 🤝 Связь / Contact
+
+- GitHub: [@Kiryuhak](https://github.com/Kiryuhak)
+
+---
+
+<div align="center">
+
+### Спасибо, что заглянули!  
+### Thanks for visiting!
+
+⭐ Буду рад вашим отзывам, идеям и предложениям.  
+⭐ Feedback, ideas, and suggestions are always welcome.
+
+</div>
