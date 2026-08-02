@@ -86,19 +86,42 @@ An intelligent browser extension for working with selected text and AI.
 
 ---
 
-## 📊 GitHub statistics
+## 📊 GitHub / GitHub profile
 
 <p align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Kiryuhak&show_icons=true&hide_border=true"
-  alt="GitHub statistics"
+  src="https://img.shields.io/github/followers/Kiryuhak?style=for-the-badge&label=Followers"
+  alt="GitHub followers"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiryuhak&layout=compact&hide_border=true"
-  alt="Most used languages"
+  src="https://img.shields.io/github/stars/Kiryuhak?affiliations=OWNER&style=for-the-badge&label=Stars"
+  alt="GitHub stars"
 />
+
+<img
+  src="https://komarev.com/ghpvc/?username=Kiryuhak&style=for-the-badge&label=Profile+views"
+  alt="Profile views"
+/>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Kiryuhak?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/Мои_репозитории-Открыть-181717?style=for-the-badge&logo=github"
+    alt="Repositories"
+  />
+</a>
+
+<a href="https://github.com/Kiryuhak?tab=followers">
+  <img
+    src="https://img.shields.io/badge/GitHub-Подписаться-181717?style=for-the-badge&logo=github"
+    alt="Follow on GitHub"
+  />
+</a>
 
 </p>
 
