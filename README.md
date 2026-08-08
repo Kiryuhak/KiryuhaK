@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Kiryuhak&fontAlign=50&fontAlignY=40&desc=QA%20Engineer%20•%20Developer%20•%20AI%20Explorer&descAlign=50&descAlignY=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=KiryuhaK&fontAlign=50&fontAlignY=40&desc=QA%20Engineer%20•%20Developer%20•%20AI%20Explorer&descAlign=50&descAlignY=60&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -19,13 +19,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Kiryuhak">
-    <img src="https://komarev.com/ghpvc/?username=Kiryuhak&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+  <a href="https://github.com/KiryuhaK">
+    <img src="https://komarev.com/ghpvc/?username=KiryuhaK&style=for-the-badge&color=blueviolet" alt="Profile views"/>
   </a>
-  <a href="https://github.com/Kiryuhak?tab=followers">
+  <a href="https://github.com/KiryuhaK?tab=followers">
     <img src="https://img.shields.io/github/followers/Kiryuhak?style=for-the-badge&color=0891b2&label=Followers" alt="followers"/>
   </a>
-  <a href="https://github.com/Kiryuhak?tab=repositories">
+  <a href="https://github.com/KiryuhaK?tab=repositories">
     <img src="https://img.shields.io/github/stars/Kiryuhak?style=for-the-badge&color=f59e0b&label=Stars" alt="stars"/>
   </a>
 </p>
@@ -117,16 +117,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kiryuhak&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kiryuhak&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KiryuhaK&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KiryuhaK&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kiryuhak&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KiryuhaK&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kiryuhak&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=KiryuhaK&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
