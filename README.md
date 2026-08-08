@@ -1,155 +1,198 @@
-<div align="center">
-
-# Привет! Я Кирилл 👋  
-# Hi! I'm Kirill 👋
-
-### QA Engineer • Developer • Creator of LexiSync
-
-Я занимаюсь тестированием, разработкой и автоматизацией.  
-Создаю полезные инструменты, браузерные расширения и изучаю современные технологии.
-
-I work with software testing, development, and automation.  
-I build useful tools, browser extensions, and explore modern technologies.
-
-</div>
-
----
-
-## 🇷🇺 Обо мне
-
-- 🔍 Занимаюсь ручным и автоматизированным тестированием
-- 🧪 Пишу unit- и E2E-тесты
-- 🌐 Разрабатываю браузерные расширения для Chrome и Firefox
-- 🤖 Интересуюсь AI-инструментами и интеграцией языковых моделей
-- 🛠 Люблю искать сложные ошибки и разбираться в их первопричинах
-- 📚 Постоянно изучаю новые технологии и улучшаю свои проекты
-
-## 🇬🇧 About me
-
-- 🔍 Working with manual and automated software testing
-- 🧪 Writing unit and end-to-end tests
-- 🌐 Building browser extensions for Chrome and Firefox
-- 🤖 Interested in AI tools and language model integrations
-- 🛠 Enjoy investigating complex bugs and finding their root causes
-- 📚 Continuously learning and improving my projects
-
----
-
-## 🚀 Основной проект / Featured project
-
-### ✨ LexiSync
-
-Интеллектуальное браузерное расширение для работы с выделенным текстом и AI.
-
-An intelligent browser extension for working with selected text and AI.
-
-**Возможности / Features:**
-
-- обработка выделенного текста;
-- быстрые AI-команды;
-- рабочая панель прямо на странице;
-- интеграция с Mistral API;
-- поддержка русского и английского языков;
-- расширения для Chrome и Firefox;
-- unit- и E2E-тестирование;
-- внимание к приватности и удобству интерфейса.
-
----
-
-## 🧰 Технологии / Tech stack
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Kiryuhak&fontAlign=50&fontAlignY=40&desc=QA%20Engineer%20•%20Developer%20•%20AI%20Explorer&descAlign=50&descAlignY=60&animation=fadeIn" />
+</p>
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=950&lines=%F0%9F%91%8B+Hi%2C+I'm+Kirill!;%F0%9F%94%8D+QA+Engineer+%7C+%F0%9F%A7%AA+Automation+Tester+%7C+%F0%9F%92%BB+Developer;%F0%9F%8C%90+Building+browser+extensions+for+Chrome+and+Firefox;%F0%9F%A4%96+Interested+in+AI+tools+and+LLM+integrations;%F0%9F%9A%80+Creator+of+LexiSync"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/QA-Engineer-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-Testing-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Browser-Extensions-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Tools-1DB954?style=for-the-badge" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/Kiryuhak">
+    <img src="https://komarev.com/ghpvc/?username=Kiryuhak&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+  </a>
+  <a href="https://github.com/Kiryuhak?tab=followers">
+    <img src="https://img.shields.io/github/followers/Kiryuhak?style=for-the-badge&color=0891b2&label=Followers" alt="followers"/>
+  </a>
+  <a href="https://github.com/Kiryuhak?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Kiryuhak?style=for-the-badge&color=f59e0b&label=Stars" alt="stars"/>
+  </a>
 </p>
 
 ---
 
-## 🧪 Что я тестирую / What I test
+## 👨‍💻 About me / Обо мне
 
-- функциональность интерфейсов;
-- браузерные расширения;
-- API-интеграции;
-- обработку ошибок и нестандартных ответов;
-- адаптивность и совместимость;
-- сборки Chrome и Firefox;
-- регрессионные сценарии;
-- пользовательские потоки.
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🇬🇧 EN
+- 🔍 QA Engineer focused on **manual** and **automated testing**
+- 🧪 Writing **unit**, **integration**, and **E2E** tests
+- 🌐 Building **browser extensions** for **Chrome** and **Firefox**
+- 🤖 Exploring **AI tools** and **LLM integrations**
+- 🛠 Love debugging complex issues and finding their **root cause**
+- 📚 Continuously learning and improving my stack
 
-## 📊 GitHub / GitHub profile
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
+### 🇷🇺 RU
+- 🔍 QA Engineer: **ручное** и **автоматизированное тестирование**
+- 🧪 Пишу **unit**, **integration** и **E2E** тесты
+- 🌐 Разрабатываю **браузерные расширения** для **Chrome** и **Firefox**
+- 🤖 Интересуюсь **AI-инструментами** и **интеграцией LLM**
+- 🛠 Люблю разбираться в сложных багах и искать **root cause**
+- 📚 Постоянно изучаю новые технологии и улучшаю проекты
 
-<img
-  src="https://img.shields.io/github/followers/Kiryuhak?style=for-the-badge&label=Followers"
-  alt="GitHub followers"
-/>
-
-<img
-  src="https://img.shields.io/github/stars/Kiryuhak?affiliations=OWNER&style=for-the-badge&label=Stars"
-  alt="GitHub stars"
-/>
-
-<img
-  src="https://komarev.com/ghpvc/?username=Kiryuhak&style=for-the-badge&label=Profile+views"
-  alt="Profile views"
-/>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/Kiryuhak?tab=repositories">
-  <img
-    src="https://img.shields.io/badge/Мои_репозитории-Открыть-181717?style=for-the-badge&logo=github"
-    alt="Repositories"
-  />
-</a>
-
-<a href="https://github.com/Kiryuhak?tab=followers">
-  <img
-    src="https://img.shields.io/badge/GitHub-Подписаться-181717?style=for-the-badge&logo=github"
-    alt="Follow on GitHub"
-  />
-</a>
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎯 Сейчас изучаю / Currently learning
-
-- автоматизацию тестирования;
-- TypeScript;
-- архитектуру браузерных расширений;
-- CI/CD;
-- AI-assisted development;
-- анализ логов и поиск первопричин ошибок.
-
----
-
-## 🤝 Связь / Contact
-
-- GitHub: [@Kiryuhak](https://github.com/Kiryuhak)
-
----
+## 🚀 Featured project / Основной проект
 
 <div align="center">
 
-### Спасибо, что заглянули!  
-### Thanks for visiting!
+# ✨ LexiSync
 
-⭐ Буду рад вашим отзывам, идеям и предложениям.  
-⭐ Feedback, ideas, and suggestions are always welcome.
+**Intelligent browser extension for working with selected text and AI**  
+**Интеллектуальное расширение для работы с выделенным текстом и AI**
 
 </div>
+
+### 🔥 Features
+- ⚡ Fast AI actions with selected text
+- 🧠 AI-powered processing
+- 🪟 In-page working panel
+- 🔌 Integration with **Mistral API**
+- 🌍 Russian and English support
+- 🧪 Unit and E2E testing
+- 🔐 Privacy-focused approach
+- 🧩 Chrome and Firefox extension support
+
+---
+
+## 🛠 Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,git,github,vscode,selenium,postman,regex" />
+</p>
+
+### 📌 I work with
+- **Testing:** Manual Testing, Test Design, Regression Testing, Smoke Testing
+- **Automation:** JavaScript, TypeScript, Selenium, E2E
+- **Web:** HTML, CSS, JavaScript, TypeScript
+- **Tools:** Git, GitHub, Postman, DevTools, VS Code
+- **Domains:** Browser Extensions, AI Integrations, APIs
+
+---
+
+## 🧪 What I test / Что я тестирую
+
+- ✅ UI functionality
+- ✅ Browser extensions
+- ✅ API integrations
+- ✅ Error handling and edge cases
+- ✅ Cross-browser compatibility
+- ✅ Chrome / Firefox builds
+- ✅ Regression scenarios
+- ✅ User flows and usability
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kiryuhak&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiryuhak&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kiryuhak&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Currently learning / Сейчас изучаю
+
+- 🤖 AI-assisted development
+- 🧪 Test automation
+- 📘 TypeScript
+- 🧩 Browser extension architecture
+- ⚙️ CI/CD
+- 📊 Logs analysis & root cause investigation
+
+---
+
+## 🌟 Goals
+
+- Build useful dev/test tools
+- Improve automation skills
+- Create polished browser extensions
+- Explore LLM-powered workflows
+- Share practical knowledge through projects
+
+---
+
+## 🧠 Fun facts
+
+- I enjoy turning repetitive tasks into automation
+- I like finding bugs that are hard to reproduce
+- I’m especially interested in tools that make workflows faster and smarter
+
+---
+
+## 🤝 Contact / Связь
+
+<p align="center">
+  <a href="https://github.com/Kiryuhak">
+    <img src="https://img.shields.io/badge/GitHub-Kiryuhak-181717?style=for-the-badge&logo=github" />
+  </a>
+  <!-- Если захочешь, добавь Telegram / Email / LinkedIn -->
+  <!--
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://t.me/your_username">
+    <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram" />
+  </a>
+  -->
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kiryuhak/Kiryuhak/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+<div align="center">
+
+### ✨ Thanks for visiting!
+### Спасибо, что заглянули!
+
+⭐ Feedback, ideas, and suggestions are always welcome.  
+⭐ Буду рад идеям, отзывам и предложениям.
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
+</p>
