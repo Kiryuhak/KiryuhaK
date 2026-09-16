@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=950&lines=%F0%9F%91%8B+Hi%2C+I'm+Kirill!;%F0%9F%94%8D+QA+Engineer+%7C+%F0%9F%A7%AA+Automation+Tester+%7C+%F0%9F%92%BB+Developer;%F0%9F%8C%90+Building+browser+extensions+for+Chrome+and+Firefox;%F0%9F%A4%96+AI+tools%2C+LLM+integrations+and+smart+automation;%F0%9F%9A%80+Creator+of+LexiSync"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=950&lines=%F0%9F%91%8B+Hi%2C+I'm+Kirill!;%F0%9F%94%8D+QA+Engineer+%7C+%F0%9F%92%BB+Developer+%7C+%F0%9F%A7%AA+Automation+Tester;%F0%9F%93%BA+SmartTube+VOX+%E2%80%94+Android+TV+%26+Neural+Voice+Over;%F0%9F%94%A4+LexiSync+%E2%80%94+AI+Browser+Extension+for+Chrome+%26+Firefox;%F0%9F%A4%96+AI+tools%2C+LLM+integrations+and+smart+automation"
       alt="Typing SVG"
     />
   </a>
@@ -13,9 +13,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/QA-Engineer-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automation-Testing-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Developer-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Android%20TV-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Browser-Extensions-FF8C00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-Integrations-1DB954?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Integrations-7C3AED?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -40,26 +41,22 @@
 
 ### 🇬🇧 EN
 
-- 🔍 QA Engineer focused on **manual** and **automated testing**
-- 🧪 Writing **unit**, **integration**, and **E2E** tests
-- 🌐 Building **browser extensions** for **Chrome** and **Firefox**
-- 🤖 Exploring **AI tools** and **LLM integrations**
-- 🛠 Love debugging complex issues and finding their **root cause**
-- ⚙️ Interested in CI/CD, release automation and developer tooling
-- 📚 Continuously learning and improving my stack
+- 🔍 **QA Engineer & Developer** focused on software quality, automation, and reliable developer tooling.
+- 📺 Author of **SmartTube VOX** — an unofficial Android TV fork with integrated neural voice-over translation.
+- 🔤 Creator of **LexiSync** — an AI-powered browser extension for Chrome and Firefox.
+- 🧪 Specialized in **automated testing** (unit, integration, and cross-browser E2E with Vitest and Playwright).
+- 🛠 Passionate about **diagnostics, root cause analysis**, and resilient CI/CD pipelines.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🇷🇺 RU
 
-- 🔍 QA Engineer: **ручное** и **автоматизированное тестирование**
-- 🧪 Пишу **unit**, **integration** и **E2E** тесты
-- 🌐 Разрабатываю **браузерные расширения** для **Chrome** и **Firefox**
-- 🤖 Интересуюсь **AI-инструментами** и **интеграцией LLM**
-- 🛠 Люблю разбираться в сложных багах и искать **root cause**
-- ⚙️ Интересуюсь CI/CD, автоматизацией релизов и developer tooling
-- 📚 Постоянно изучаю новые технологии и улучшаю проекты
+- 🔍 **QA Engineer и разработчик**: качество ПО, автоматизация и надёжные прикладные инструменты.
+- 📺 Автор **SmartTube VOX** — неофициального форка для Android TV с нейросетевым закадровым переводом.
+- 🔤 Создатель **LexiSync** — AI-расширения для проверки и улучшения текста в Chrome и Firefox.
+- 🧪 Специализируюсь на **автоматизации тестирования** (unit, integration и E2E на базе Vitest и Playwright).
+- 🛠 Люблю **глубокую диагностику, поиск root cause** и стабильные CI/CD пайплайны.
 
 </td>
 </tr>
@@ -67,41 +64,66 @@
 
 ---
 
-## 🚀 Featured project / Основной проект
+## 🚀 Featured Projects / Основные проекты
 
-<div align="center">
+### 📺 [SmartTube VOX](https://github.com/Kiryuhak/SmartTube-Vox)
 
-# ✨ LexiSync
-
-**AI-powered browser extension for text correction, rewriting and smart text actions**  
-**AI-расширение для проверки, исправления и улучшения текста прямо в браузере**
+**SmartTube for Android TV with integrated Yandex Voice Over Translation and Lively Voice**<br/>
+**Форк SmartTube для Android TV со встроенным закадровым переводом Яндекс VOT и «Живым голосом»**
 
 <p>
-  <img src="https://img.shields.io/badge/Chrome-Manifest%20V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firefox-Compatible-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-Ready-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Mistral%20%2F%20Groq-7C3AED?style=flat-square" />
+  <a href="https://github.com/Kiryuhak/SmartTube-Vox/releases/latest"><img src="https://img.shields.io/github/v/release/Kiryuhak/SmartTube-Vox?style=flat-square&color=blue&label=Release" alt="Release" /></a>
+  <img src="https://img.shields.io/badge/Platform-Android%20TV%20%7C%20Google%20TV-blueviolet?style=flat-square" alt="Platform" />
+  <a href="https://github.com/yuliskov/SmartTube"><img src="https://img.shields.io/badge/Upstream-SmartTube%20by%20yuliskov-24292e?style=flat-square" alt="Upstream" /></a>
+  <img src="https://img.shields.io/badge/License-GPLv3-orange?style=flat-square" alt="License" />
 </p>
 
-</div>
+An unofficial SmartTube fork for Android TV and TV boxes focused on integrated Russian voice-over translation (Yandex VOT), multi-voice neural models ("Lively Voice"), and native remote-friendly playback.
 
-### 🔥 Features
+Неофициальный форк SmartTube для Android TV и TV-приставок, добавляющий встроенный закадровый перевод (Яндекс VOT), многоголосый «Живой голос» и удобное управление с пульта.
 
-- ⚡ Fast AI actions with selected text
-- ✍️ Grammar, spelling and style correction
-- 🧠 AI-powered rewriting and text processing
-- 🪟 In-page working panel
-- 🔌 AI provider integrations
-- 🔄 Automatic provider fallback when limits are reached
-- 🌍 Russian and English support
-- 🧪 Unit and E2E testing
-- 🔐 Privacy-focused approach
-- 🧩 Chrome and Firefox support
-- ⚙️ Manifest V3-ready architecture
+- 🎙️ **Voice-Over Translation**: integrated neural Russian voice-over translation with progress overlay / встроенный закадровый перевод с индикацией ожидания.
+- 🗣️ **Standard & Lively Voice**: multi-voice neural speech synthesis via on-screen TV authorization / «Живой голос» через авторизацию Яндекс ID на ТВ.
+- 🎚️ **Quick Mixer**: independent volume balance between original audio and voice-over tracks / независимая регулировка громкости оригинала и перевода.
+- 🔄 **Smart Audio Track Detection**: automated translation trigger based on stream language tag / умный автозапуск перевода по языку аудиодорожки.
+- 📺 **Full SmartTube Foundation**: SponsorBlock, up to 4K 60fps HDR, AFR, no Google Services required, independent package ID, and in-app updater / сохранение возможностей базового плеера и автообновление.
+
+🔗 **Links:** [Repository](https://github.com/Kiryuhak/SmartTube-Vox) · [Releases & APK](https://github.com/Kiryuhak/SmartTube-Vox/releases) · Upstream: [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube)
 
 ---
 
-## 🎯 Developer Snapshot
+### 🔤 [LexiSync](https://github.com/Kiryuhak/LexiSync)
+
+**AI-powered browser extension for text correction, rewriting, and smart text actions**<br/>
+**Кросс-браузерное AI-расширение для проверки, исправления и улучшения текста**
+
+<p>
+  <a href="https://github.com/Kiryuhak/LexiSync/releases/latest"><img src="https://img.shields.io/github/v/release/Kiryuhak/LexiSync?style=flat-square&color=blue&label=Release" alt="Release" /></a>
+  <a href="https://chromewebstore.google.com/detail/%D0%BA%D0%BE%D1%80%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80-%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B8-%D0%B8-%D0%BE%D1%80/iacebnbpapcgjlplkeapekjeoljfdpgl"><img src="https://img.shields.io/badge/Chrome-Web%20Store-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Web Store" /></a>
+  <a href="https://addons.mozilla.org/ru/firefox/addon/65facfa619b74330bdfa/"><img src="https://img.shields.io/badge/Firefox-Add--ons-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white" alt="Firefox Add-ons" /></a>
+  <img src="https://img.shields.io/badge/Manifest-V3-success?style=flat-square" alt="Manifest V3" />
+  <img src="https://img.shields.io/badge/AI-Mistral%20%7C%20Cloudflare-7C3AED?style=flat-square" alt="AI: Mistral & Cloudflare" />
+</p>
+
+A cross-browser extension for Chrome and Firefox built on Manifest V3. Corrects grammar and typography, rewrites text to target tone, performs contextual translation, and recognizes screen text.
+
+Кросс-браузерное расширение для Chrome и Firefox на Manifest V3. Исправляет ошибки и типографику, адаптирует стиль текста под задачу, переводит и распознаёт текст на экране.
+
+- ⚡ **Hybrid Text Correction**: packed offline dictionary (Bloom filter) for zero-latency fixes + AI for complex grammar / гибридный режим: локальный словарь + AI.
+- ✍️ **Tone & Writing Goals**: rewriting to match specific audiences and communication styles (business, friendly, concise, persuasive) / адаптация стиля под аудиторию и задачи.
+- 🔄 **Multi-Provider AI & Fallback**: resilient routing between Mistral AI and Cloudflare Workers AI with rate-limit handling / надёжный маршрут и fallback между провайдерами.
+- 🛡️ **Privacy by Design**: local PII masking (emails, phones, cards, tokens) before API calls, no external telemetry / маскировка персональных данных до отправки в AI.
+- 🌐 **Smart Utilities & Full Testing**: OCR text recognition, keyboard layout auto-fix (`ghbdtn` → `привет`), accompanied by Vitest unit and Playwright E2E suites / вспомогательные инструменты и всестороннее автотестирование.
+
+🔗 **Links:** [Repository](https://github.com/Kiryuhak/LexiSync) · [Releases](https://github.com/Kiryuhak/LexiSync/releases) · [Chrome Web Store](https://chromewebstore.google.com/detail/%D0%BA%D0%BE%D1%80%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80-%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B8-%D0%B8-%D0%BE%D1%80/iacebnbpapcgjlplkeapekjeoljfdpgl) · [Firefox Add-ons](https://addons.mozilla.org/ru/firefox/addon/65facfa619b74330bdfa/)
+
+---
+
+## 🛠 Tech & Testing
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=android,java,gradle,ts,js,nodejs,git,github,githubactions,vscode" />
+</p>
 
 <table>
 <tr>
@@ -109,28 +131,22 @@
 
 ### 🧪 QA & Testing
 
-- Manual Testing
-- Test Design
-- Smoke & Regression
-- API Testing
-- E2E Automation
-- Cross-browser Testing
-- Bug Investigation
-- Root Cause Analysis
+- **Automation:** Vitest, Playwright (Chromium & Firefox headless/headed)
+- **Test Design:** functional, regression, smoke, boundary & edge cases
+- **API & Integration:** REST API validation, OAuth flows, rate-limit resilience
+- **Platform QA:** Android TV UI & remote interaction, Manifest V3 extensions
+- **Diagnostics:** ADB logs, Chrome DevTools, network traffic, root cause analysis
 
 </td>
 <td width="50%" valign="top">
 
-### 💻 Development
+### 💻 Development & Tools
 
-- JavaScript / TypeScript
-- Browser Extensions
-- REST APIs
-- AI / LLM integrations
-- Git & GitHub
-- CI/CD
-- Chrome DevTools
-- Automation tooling
+- **Android & Java:** Android TV development, Gradle build scripts, ExoPlayer
+- **Web & Extensions:** TypeScript, JavaScript, Node.js, WXT, Vite, Shadow DOM
+- **AI Integrations:** Mistral AI, Cloudflare Workers AI, prompt design, fallbacks
+- **CI/CD & DevOps:** GitHub Actions, automated releases, multi-browser pipelines
+- **Data & Storage:** IndexedDB, chrome.storage, Bloom filters, PII sanitization
 
 </td>
 </tr>
@@ -138,45 +154,11 @@
 
 ---
 
-## 🛠 Tech stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,git,github,vscode,selenium,postman,regex" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-ES202x-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/TypeScript-Strict-3178C6?style=flat-square&logo=typescript&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Selenium-E2E-43B02A?style=flat-square&logo=selenium&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Postman-API-FF6C37?style=flat-square&logo=postman&logoColor=fff" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=fff" />
-</p>
-
----
-
-## 🧪 What I test / Что я тестирую
-
-| Area | Focus |
-|---|---|
-| 🖥 UI | Functionality, usability, states, edge cases |
-| 🌐 Browser Extensions | Chrome / Firefox behavior, Manifest V3 |
-| 🔌 API | Requests, responses, errors, limits |
-| 🧩 Integration | Messaging, storage, external services |
-| 🔁 Regression | Critical flows and release stability |
-| 🧪 Automation | Unit, integration and E2E tests |
-| 🐞 Debugging | Logs, DevTools, reproduction, root cause |
-
----
-
 ## 🚧 Current focus / Сейчас в фокусе
 
-- 🧩 Improving **LexiSync**
-- 🤖 Multi-provider AI architecture
-- 🔄 Automatic fallback between AI providers
-- 🧪 Expanding automated test coverage
-- ⚙️ CI/CD for Chrome Web Store and Firefox Add-ons
-- 📘 Deepening TypeScript and browser-extension architecture
-- 🔍 Improving observability, logging and diagnostics
+- 📺 **SmartTube VOX**: voice-over translation stability, live voice fallback, and audio mixer reliability on Android TV.
+- 🔤 **LexiSync**: multi-provider AI resilience, local spellchecking performance, and store updates.
+- 🧪 **Engineering & QA**: expanding cross-browser E2E automation in CI/CD and resilient multi-provider AI integrations.
 
 ---
 
@@ -187,8 +169,6 @@
   <img src="https://img.shields.io/github/commit-activity/m/KiryuhaK/KiryuhaK?style=for-the-badge&logo=github&label=Monthly%20commits" />
   <img src="https://img.shields.io/github/repo-size/KiryuhaK/KiryuhaK?style=for-the-badge&logo=github&label=Profile%20size" />
 </p>
-
-> 💡 Instead of depending on a fragile third-party stats dashboard, this profile focuses on live GitHub badges, project highlights and a repository-generated contribution graph.
 
 ---
 
@@ -208,35 +188,6 @@
 
 ---
 
-## 🌟 Goals
-
-- 🚀 Build useful tools that solve real problems
-- 🧪 Improve automation and test architecture skills
-- 🧩 Create polished browser extensions
-- 🤖 Explore practical LLM-powered workflows
-- ⚙️ Automate releases and repetitive engineering tasks
-- 📚 Share practical knowledge through projects
-
----
-
-## 🧠 A little about how I work
-
-```text
-Find the problem
-      ↓
-Reproduce it
-      ↓
-Understand the root cause
-      ↓
-Fix or automate it
-      ↓
-Add tests
-      ↓
-Make the workflow simpler
-```
-
----
-
 ## 🤝 Contact / Связь
 
 <p align="center">
@@ -246,8 +197,8 @@ Make the workflow simpler
 </p>
 
 <p align="center">
-  <i>Open to interesting QA, automation, browser-extension and AI-integration projects.</i><br/>
-  <i>Открыт к интересным проектам в QA, автоматизации, браузерных расширениях и AI-интеграциях.</i>
+  <i>Open to interesting QA, automation, Android TV, browser-extension, and AI-integration projects.</i><br/>
+  <i>Открыт к интересным проектам в QA, автоматизации, Android TV, браузерных расширениях и AI-интеграциях.</i>
 </p>
 
 ---
