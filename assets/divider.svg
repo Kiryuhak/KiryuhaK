@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 24" role="img" aria-label="Неоновый разделитель">
+  <path d="M0 12h410l12-8h156l12 8h410" fill="none" stroke="#8B5CF6" stroke-width="2"/>
+  <path d="M0 17h398m204 0h398" fill="none" stroke="#0891B2" stroke-width="1" opacity=".75"/>
+  <circle cx="500" cy="12" r="5" fill="#0891B2"/>
+</svg>

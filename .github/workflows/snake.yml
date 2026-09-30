@@ -22,8 +22,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#0891B2&color_dots=#F8FAFC,#CFFAFE,#A5F3FC,#67E8F9,#8B5CF6
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#00E5FF&color_dots=#0B132B,#19325C,#254D83,#326CA3,#8B5CF6
 
       - name: Опубликовать SVG в ветке output
         uses: crazy-max/ghaction-github-pages@v5
