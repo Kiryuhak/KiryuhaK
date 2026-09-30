@@ -68,9 +68,9 @@ loop   test → debug → ship
 Мои [публичные вклады](https://github.com/KiryuhaK?tab=overview) и выпуски [SmartTube VOX](https://github.com/Kiryuhak/SmartTube-Vox/releases) / [LexiSync](https://github.com/Kiryuhak/LexiSync/releases).
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kiryuhak/KiryuhaK/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kiryuhak/KiryuhaK/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Kiryuhak/KiryuhaK/output/github-contribution-grid-snake.svg" alt="Неоновая анимация вкладов KiryuhaK в GitHub" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kiryuhak/KiryuhaK/raw/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kiryuhak/KiryuhaK/raw/refs/heads/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Kiryuhak/KiryuhaK/raw/refs/heads/output/github-contribution-grid-snake.svg" alt="Неоновая анимация вкладов KiryuhaK в GitHub" width="100%" />
 </picture>
 
 ## 📡 CONNECTION
