@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" role="img" aria-labelledby="title desc">
+  <title id="title">KiryuhaK — Кирилл, QA Engineer и разработчик</title>
+  <desc id="desc">Спокойный тёмно-синий баннер с мягкими голубыми и сиреневыми формами.</desc>
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#171B35"/>
+      <stop offset=".58" stop-color="#28385F"/>
+      <stop offset="1" stop-color="#3E3568"/>
+    </linearGradient>
+    <radialGradient id="lilac">
+      <stop offset="0" stop-color="#B6A8F7" stop-opacity=".62"/>
+      <stop offset="1" stop-color="#B6A8F7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blue">
+      <stop offset="0" stop-color="#6ED4E6" stop-opacity=".48"/>
+      <stop offset="1" stop-color="#6ED4E6" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="frame"><rect width="1000" height="280" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="280" fill="url(#base)"/>
+    <circle cx="844" cy="75" r="260" fill="url(#lilac)"/>
+    <circle cx="708" cy="255" r="220" fill="url(#blue)"/>
+    <path d="M567 280C665 207 758 217 1000 98" fill="none" stroke="#C5BBFF" stroke-opacity=".32" stroke-width="2"/>
+    <path d="M625 280C753 188 837 202 1000 130" fill="none" stroke="#8EDCE9" stroke-opacity=".31" stroke-width="2"/>
+    <circle cx="844" cy="98" r="145" fill="none" stroke="#F1ECFF" stroke-opacity=".18" stroke-width="2"/>
+    <circle cx="844" cy="98" r="97" fill="none" stroke="#F1ECFF" stroke-opacity=".13" stroke-width="2"/>
+    <rect x="50" y="45" width="56" height="4" rx="2" fill="#91DCEB"/>
+    <text x="50" y="141" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="700" letter-spacing="-3">KiryuhaK</text>
+    <text x="53" y="186" fill="#E8EBFA" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="400">QA Engineer &amp; Developer</text>
+    <text x="53" y="226" fill="#BFE7F0" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="1">ANDROID TV  ·  BROWSER TOOLS  ·  AI</text>
+  </g>
+</svg>
